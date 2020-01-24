@@ -1,0 +1,6 @@
+#leftPanel{
+    -fx-effects: dropShadow(three-pass-box, rgba(0,0,0,0.6),3,0.0,0,1);
+}
+.foo{
+    -fx-background-color: rgba(255, 0, 0, 0.6);
+}

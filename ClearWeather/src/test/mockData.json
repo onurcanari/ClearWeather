@@ -1,0 +1,233 @@
+[{
+  "location": {
+    "woeid": 2343819,
+    "city": "Bolu",
+    "region": " Bolu",
+    "country": "Turkey",
+    "lat": 40.737202,
+    "long": 31.6103,
+    "timezone_id": "Europe/Istanbul"
+  },
+  "current_observation": {
+    "wind": {
+      "chill": 24,
+      "direction": 205,
+      "speed": 1.86
+    },
+    "atmosphere": {
+      "humidity": 84,
+      "visibility": 10.0,
+      "pressure": 26.96,
+      "rising": 0
+    },
+    "astronomy": {
+      "sunrise": "8:11 am",
+      "sunset": "6:01 pm"
+    },
+    "condition": {
+      "text": "Mostly Cloudy",
+      "code": 27,
+      "temperature": 24
+    },
+    "pubDate": 1579665600
+  },
+  "forecasts": [
+    {
+      "day": "Wed",
+      "date": 1579644000,
+      "low": 24,
+      "high": 29,
+      "text": "Snow",
+      "code": 16
+    },
+    {
+      "day": "Thu",
+      "date": 1579730400,
+      "low": 15,
+      "high": 29,
+      "text": "Snow Showers",
+      "code": 14
+    },
+    {
+      "day": "Fri",
+      "date": 1579816800,
+      "low": 13,
+      "high": 36,
+      "text": "Sunny",
+      "code": 32
+    },
+    {
+      "day": "Sat",
+      "date": 1579903200,
+      "low": 18,
+      "high": 42,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Sun",
+      "date": 1579989600,
+      "low": 30,
+      "high": 41,
+      "text": "Scattered Showers",
+      "code": 39
+    },
+    {
+      "day": "Mon",
+      "date": 1580076000,
+      "low": 33,
+      "high": 40,
+      "text": "Rain And Snow",
+      "code": 5
+    },
+    {
+      "day": "Tue",
+      "date": 1580162400,
+      "low": 29,
+      "high": 44,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Wed",
+      "date": 1580248800,
+      "low": 28,
+      "high": 38,
+      "text": "Mostly Cloudy",
+      "code": 28
+    },
+    {
+      "day": "Thu",
+      "date": 1580335200,
+      "low": 27,
+      "high": 39,
+      "text": "Mostly Cloudy",
+      "code": 28
+    },
+    {
+      "day": "Fri",
+      "date": 1580421600,
+      "low": 29,
+      "high": 40,
+      "text": "Rain And Snow",
+      "code": 5
+    }
+  ]
+},
+{
+  "location": {
+    "woeid": 2343819,
+    "city": "Bolu",
+    "region": " Bolu",
+    "country": "Turkey",
+    "lat": 40.737202,
+    "long": 31.6103,
+    "timezone_id": "Europe/Istanbul"
+  },
+  "current_observation": {
+    "wind": {
+      "chill": 23,
+      "direction": 215,
+      "speed": 4.35
+    },
+    "atmosphere": {
+      "humidity": 69,
+      "visibility": 10.0,
+      "pressure": 26.67,
+      "rising": 0
+    },
+    "astronomy": {
+      "sunrise": "8:10 am",
+      "sunset": "6:02 pm"
+    },
+    "condition": {
+      "text": "Partly Cloudy",
+      "code": 29,
+      "temperature": 27
+    },
+    "pubDate": 1579737600
+  },
+  "forecasts": [
+    {
+      "day": "Thu",
+      "date": 1579730400,
+      "low": 18,
+      "high": 30,
+      "text": "Snow Showers",
+      "code": 14
+    },
+    {
+      "day": "Fri",
+      "date": 1579816800,
+      "low": 15,
+      "high": 37,
+      "text": "Sunny",
+      "code": 32
+    },
+    {
+      "day": "Sat",
+      "date": 1579903200,
+      "low": 19,
+      "high": 42,
+      "text": "Mostly Sunny",
+      "code": 34
+    },
+    {
+      "day": "Sun",
+      "date": 1579989600,
+      "low": 26,
+      "high": 38,
+      "text": "Scattered Showers",
+      "code": 39
+    },
+    {
+      "day": "Mon",
+      "date": 1580076000,
+      "low": 33,
+      "high": 40,
+      "text": "Mostly Cloudy",
+      "code": 28
+    },
+    {
+      "day": "Tue",
+      "date": 1580162400,
+      "low": 27,
+      "high": 41,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Wed",
+      "date": 1580248800,
+      "low": 30,
+      "high": 39,
+      "text": "Rain And Snow",
+      "code": 5
+    },
+    {
+      "day": "Thu",
+      "date": 1580335200,
+      "low": 29,
+      "high": 45,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Fri",
+      "date": 1580421600,
+      "low": 26,
+      "high": 45,
+      "text": "Mostly Cloudy",
+      "code": 28
+    },
+    {
+      "day": "Sat",
+      "date": 1580508000,
+      "low": 27,
+      "high": 42,
+      "text": "Rain And Snow",
+      "code": 5
+    }
+  ]
+}
+]

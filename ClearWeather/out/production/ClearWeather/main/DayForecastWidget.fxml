@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="279.0" prefWidth="148.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label fx:id="dayNameText" text="Sun">
+            <font>
+                <Font name="Leelawadee UI" size="30.0" />
+            </font>
+        </Label>
+        <ImageView fx:id="weatherTypeImg" fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@img/14.png" />
+            </image>
+        </ImageView>
+      <HBox alignment="CENTER" prefHeight="42.0" prefWidth="413.0">
+         <children>
+            <HBox alignment="CENTER_RIGHT" prefHeight="42.0" prefWidth="413.0">
+               <children>
+                  <Label fx:id="highTemp" text="28">
+                     <font>
+                        <Font name="Leelawadee UI Semilight" size="30.0" />
+                     </font>
+                  </Label>
+                  <Label text="°">
+                     <font>
+                        <Font name="Leelawadee UI Semilight" size="30.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="  " />
+            <HBox alignment="CENTER_LEFT" prefHeight="42.0" prefWidth="413.0">
+               <children>
+                  <Label fx:id="lowTemp" text="25" textFill="#808080">
+                     <font>
+                        <Font name="Leelawadee UI Semilight" size="30.0" />
+                     </font>
+                  </Label>
+                  <Label text="°" textFill="#808080">
+                     <font>
+                        <Font name="Leelawadee UI Semilight" size="30.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+    </children>
+</VBox>
